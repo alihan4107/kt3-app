@@ -1,7 +1,7 @@
 const request = require('supertest');
 const { createApp } = require('../src/app');
 
-describe('KT3 App', () => {
+describe('Wrong result', () => {
   let app;
 
   beforeEach(() => {
